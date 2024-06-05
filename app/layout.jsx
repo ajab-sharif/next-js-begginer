@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Three Social Midea",
+  title: "next-js-begginer",
   description: "Author Shariful Islam",
 };
 
